@@ -5,8 +5,9 @@ public class FrequencyOfLetters {
         int counter = 0;
         for (int i = 0; i < word.length(); i++) {
 
-            if(word.charAt(i) == c)
+            if(word.charAt(i) == c) {
                 counter++;
+            }
 
         }
         System.out.print(c);
