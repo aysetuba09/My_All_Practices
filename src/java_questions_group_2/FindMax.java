@@ -1,4 +1,6 @@
 package java_questions_group_2;
+/*Find Maximum:  Write a method that can find the maximum number from an int Array.
+*/
 
 import java.util.Arrays;
 import java.util.Scanner;

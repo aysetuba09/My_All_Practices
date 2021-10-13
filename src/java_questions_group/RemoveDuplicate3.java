@@ -1,11 +1,7 @@
 package java_questions_group;
-/*String -- Frequency of Characters
-Write a return method that can find the frequency of characters
-Ex:  FrequencyOfChars("AAABBCDD") ==> A3B2C1D2*/
-
 import java.util.Scanner;
 
-public class FrequencyLet2 {
+public class RemoveDuplicate3 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println(countLetters(in.next()));
@@ -32,5 +28,5 @@ public class FrequencyLet2 {
         return result;
     }
 
-}
 
+}

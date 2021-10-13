@@ -1,4 +1,6 @@
 package java_questions_group_2;
+/*sum of digits in a string: Write a method that can return the sum of the digits in a string.
+*/
 
 import java.util.Scanner;
 
