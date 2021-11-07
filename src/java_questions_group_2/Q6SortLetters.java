@@ -4,7 +4,7 @@ package java_questions_group_2;
 
 import java.util.Arrays;
 
-public class SortLetters {
+public class Q6SortLetters {
     public static void SortLettersAndNumbersFromString(String str) {
 
         String str2 = "";

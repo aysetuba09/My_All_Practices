@@ -4,7 +4,7 @@ package java_questions_group_2;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class FindMin {
+public class Q9FindMin {
     public static void findMinArrayElement(int [] nums){
 
         int min = nums [0];

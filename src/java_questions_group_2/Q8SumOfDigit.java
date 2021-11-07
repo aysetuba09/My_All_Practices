@@ -4,7 +4,7 @@ package java_questions_group_2;
 
 import java.util.Scanner;
 
-public class SumOfDigit {
+public class Q8SumOfDigit {
     public static int sumOfDigit(String str){
         int sum = 0;
         for(char each : str.toCharArray()){

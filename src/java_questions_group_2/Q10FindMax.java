@@ -5,7 +5,7 @@ package java_questions_group_2;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class FindMax {
+public class Q10FindMax {
 
     public static  void findMaxArrayElement(int [] nums){
 
