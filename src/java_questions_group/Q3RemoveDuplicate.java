@@ -1,6 +1,6 @@
 package java_questions_group;
 
-public class RemoveDuplicate {
+public class Q3RemoveDuplicate {
     /*Q3: String -- Remove Duplicates.
 Write a return method that can remove the duplicated values from String
 Ex:  removeDup("AAABBBCCC")  ==> ABC

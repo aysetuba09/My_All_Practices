@@ -2,7 +2,7 @@ package java_questions_group;
 
 import java.util.Arrays;
 
-public class SameLetters {
+public class Q2SameLetters {
    /* Q2: String -- Same letters
     Write a return method that check if a string is build out of the same letters as another string.
     Ex:  same("abc",  "cab"); -> true

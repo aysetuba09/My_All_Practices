@@ -4,7 +4,7 @@ Write a return method that can reverse  String
 Ex: Reverse("ABCD"); ==> DCBA
 */
 
-public class Reverse {
+public class Q5Reverse {
     public static String reverse(String str){
         String result = "";
         for (int i = str.length() - 1; i >= 0; i--) {

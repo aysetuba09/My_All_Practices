@@ -1,6 +1,6 @@
 package java_questions_group;
 
-public class FindTheUnique {
+public class Q4FindTheUnique {
     /*Q4: String -- Find the unique
     Write a return  method that can find the unique characters from the String
     Ex:  unique("AAABBBCCCDEF")  ==>  "DEF";*/
