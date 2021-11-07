@@ -5,7 +5,7 @@ Given an array of 3 characters print all permutation combinations from the given
 
  */
 
-public class Permutation {
+public class Q4Permutation {
     public static void main(String[] args) {
         char [] arr = { 'a', 'b', 'c'};
         for (int i = 0; i < arr.length; i++) {

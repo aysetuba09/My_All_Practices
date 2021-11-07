@@ -8,7 +8,7 @@ Ex: int[] arr = {10,20,7, 8, 90};arr = Sort(arr) ==>{90, 20, 10, 8, 7};
 
 import java.util.Arrays;
 
-public class ArraySortDescending {
+public class Q2ArraySortDescending {
     public static int[] arraySortDescending(int [] arr){
 
         int num1;

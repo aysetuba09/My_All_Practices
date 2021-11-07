@@ -9,11 +9,11 @@ arr = Sort(arr); ==>{ 7, 8, 9, 10};
 
 import java.util.Arrays;
 
-public class ArraySortAscending {
+public class Q1ArraySortAscending {
     public static int[] arraySortAscending(int [] arr){
 
             int num;// temporary number
-        for (int i = 0; i < arr.length; i++) {
+        for (int i = 0; i < arr.length; i++) {//
             for (int j = i + 1; j < arr.length; j++) {
                 if(arr[i] > arr[j]){
 ;                      num = arr[i];
