@@ -9,7 +9,7 @@ identify(5) ->  "Odd"
 identify(6) ->  "Even".
  */
 
-public class NumbersOddEven {
+public class Q2NumbersOddEven {
     public static String oddEven(int a){
         String result = "";
         if(a % 2 == 0){

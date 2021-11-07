@@ -3,7 +3,7 @@ package java_questions_group_4;
 Write a method that can divide two numbers without using division operator.
  */
 
-public class DivideWithoutOperator {
+public class Q3DivideWithoutOperator {
     public static int divideNumbers(int a, int b) {
         //a is dividend
         //b is divisor

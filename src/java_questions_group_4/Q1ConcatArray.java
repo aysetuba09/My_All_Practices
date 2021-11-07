@@ -6,7 +6,7 @@ Write a return method that can concate two arrays.
 
 import java.util.Arrays;
 
-public class ConcatArray {
+public class Q1ConcatArray {
     public static int [] addArrays(int [] arr1, int [] arr2){
 //int [] arr1 = {1, 2, 3};
 //int [] arr2 = {4, 5, 6};
